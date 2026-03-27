@@ -1,6 +1,3 @@
-## Hi there 👋
-## I'm going to be successful.
-
 
 <!--
 **maiko1x/maiko1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
